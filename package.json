@@ -1,0 +1,11 @@
+{
+  "name": "jest-object-spread-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "~21.2.1"
+  }
+}
